@@ -1,0 +1,4 @@
+name: Utilitycommand
+version: '${project.version}'
+main: kr.kro.habaek.utilitycommand.Utilitycommand
+api-version: 1.17
